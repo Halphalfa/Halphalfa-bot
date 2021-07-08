@@ -51,6 +51,7 @@
   - 🙏 [Replit](https://replit.com/) BOT の開発と配置に利用させて頂いております。ありがとうございます。
   - 🙏 [UptimeRobot](https://uptimerobot.com/) BOT の死活監視に利用させて頂いております。ありがとうございます。
   - 🙏 [Discord](https://discord.com/) チームの外部チャットツールとしてたいへん有益に利用させて頂いております。ありがとうございます。
+  - 🙏 [Twitter](https://twitter.com/) 公開ツイートを容易に扱える Web API を利用させて頂いております。ありがとうございます。
 - PSO2NGS
   - 🙏 [SEGA](https://sega.jp/) すばらしい作品を世に出して頂きありがとうございます。どうか不具合に押しつぶされず頑張って下さい💪
 
