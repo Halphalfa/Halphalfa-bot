@@ -54,6 +54,8 @@
   - 🙏 [Twitter](https://twitter.com/) 公開ツイートを容易に扱える Web API を利用させて頂いております。ありがとうございます。
 - PSO2NGS
   - 🙏 [SEGA](https://sega.jp/) すばらしい作品を世に出して頂きありがとうございます。どうか不具合に押しつぶされず頑張って下さい💪
+- Wikimedia commons
+  - 🙏 [File:Ruhland, verlängerte Grenzstr. Höhe Fichtestr. 4-5, Blaue Luzerne am Wegrand, Blüten, Spätfrühling, 01.jpg](https://commons.wikimedia.org/wiki/File:Ruhland,_verl%C3%A4ngerte_Grenzstr._H%C3%B6he_Fichtestr._4-5,_Blaue_Luzerne_am_Wegrand,_Bl%C3%BCten,_Sp%C3%A4tfr%C3%BChling,_01.jpg) Halphalfa-bot ちゃんの最初のアイコン画像として"道端のアルファルファの花の写真"(CC)を使用させて頂きました。可愛らしい花の写真の Wikimedia commons での公開に感謝いたします。
 
 皆様いつも大変ありがとうございます。今後ともお互いに PSO2NGS を楽しみ続けられれば嬉しく思います。🙏
 
