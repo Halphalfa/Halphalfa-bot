@@ -6,10 +6,12 @@
 
 ### 一般公開中の主な機能
 
-- [@RappyBurst](https://twitter.com/RappyBurst/) さんの発信するアルファーリアクター情報をDiscordの「#αリアクター」チャンネルへリンク提供する機能。
-- [@Mr_Rappy](https://twitter.com/Mr_Rappy/) さんの整理された雷雨予報データを基に…
+- 〘NEW! 2021/07/10〙[PSO2NGS公式/NEWS](https://pso2.jp/players/news/) の最新記事が追加されるとDiscordの「#公式情報」チャンネルへ見出しとリンクを提供する機能。
+- 〘SINCE 2021/07/08〙[@RappyBurst](https://twitter.com/RappyBurst/) さんの発信するアルファーリアクター情報をDiscordの「#αリアクター」チャンネルへリンク提供する機能。
+- 〘DEPRECATED 2021/07/10〙[@Mr_Rappy](https://twitter.com/Mr_Rappy/) さんの整理された雷雨予報データを基に…
   - 「#雷雨botちゃん」チャンネルへ雷雨のN分前に雷雨予報のお知らせを提供する機能。
   - オンライン中のステータス表示部分で簡易的に次回の雷雨予報のお知らせを提供する機能。
+  - (2021/07/10 追記) この機能は公式の対応状況リスト[【ギガンティクス出現期間およびエネミーのHP変化に関する調整について】](https://pso2.jp/players/support/bugfixes/i_measures_20210709_1/)のなかで「天候の変化が完全にランダムな発生になっていない不具合」との表現で現状の方法による雷雨の予報は不具合としての副産物と考えられる見解を表しました。このため本機能は暫定的にDEPRECATED(非推奨)の機能とします。公式の天候関連の修正に併せて本機能はOBSOLETED(廃止)とします。
 
 ![参考画像3](./hal-bot-3.png)
 
@@ -17,6 +19,12 @@
 
 1. Halphalfa-bot を導入したいサーバーをDiscordで作成/準備して下さい。
 2. Halphalfa-bot の招待リンク <https://discord.com/api/oauth2/authorize?client_id=860116387631595530&permissions=2048&scope=bot> へウェブブラウザーでアクセスし、 Halphalfa-bot を入れてあげて下さい。
+
+### 使い方: 「#公式情報」チャンネル
+
+- Halphalfa-bot が書き込み可能な「#公式情報」チャンネルを作成するだけで動作します。
+
+![参考画像4](./hal-bot-4.png)
 
 ### 使い方: 「#αリアクター」チャンネル
 
